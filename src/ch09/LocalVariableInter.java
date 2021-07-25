@@ -13,5 +13,7 @@ public class LocalVariableInter {
 		
 		var str2 = str;
 		System.out.println(str2);
+		
+		str = "hello";;		
 	}
 }
